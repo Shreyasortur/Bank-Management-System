@@ -58,6 +58,4 @@ MySQL is used to store and manage customer account details and transaction recor
 - Improved security and authentication
 - Enhanced user interface
 
-# Author
 
-Shreya Sortur
